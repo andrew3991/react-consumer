@@ -39,5 +39,6 @@ module.exports = {
     'import/default': 'off',
     '@typescript-eslint/no-require-imports': 'off',
     'cypress/unsafe-to-chain-command': 'off',
+    'import/no-named-as-default': 'off',
   },
 }
